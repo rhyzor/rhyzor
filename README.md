@@ -43,4 +43,3 @@ import torch
   <a href="https://albumentations.ai/" target="_blank"><img src="https://img.shields.io/badge/Albumentations-1E90FF?style=for-the-badge&logo=albumentations&logoColor=white" alt="Albumentations" height="28"/></a>
   <a href="https://developer.nvidia.com/dali" target="_blank"><img src="https://img.shields.io/badge/DALI-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="DALI" height="28"/></a>
 </p>
- 
