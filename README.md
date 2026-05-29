@@ -1,1 +1,3 @@
-123
+print('hello world')
+
+SELECT 'hello world'
