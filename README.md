@@ -3,10 +3,11 @@ echo 'hello world'
 print('hello world')
 
 SELECT 'hello world'
-### 🛠️ Languages and Tools:
+### 🐧 OS:
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
 [![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0)](#)
 [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
+### 🛠️ Languages and Tools:
 <p align="left">
   <!-- Core -->
   
