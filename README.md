@@ -1,7 +1,7 @@
  
 print('hello world')
 
-<img src="https://count.getloli.com/@:name" alt=":https://github.com/rhyzor" />
+<img src="https://count.getloli.com/@:6243234432423" alt=":https://github.com/rhyzor" />
 
 ### 🐧 OS:
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
