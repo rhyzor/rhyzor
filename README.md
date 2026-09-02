@@ -1,6 +1,8 @@
  
 print('hello world')
 
+<img src="https://count.getloli.com/@:name" alt=":https://github.com/rhyzor" />
+
 ### 🐧 OS:
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
 [![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0)](#)
