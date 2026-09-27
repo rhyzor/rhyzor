@@ -1,7 +1,7 @@
  
 print('hello world')
 
-<img src="https://count.getloli.com/@:6243234432423?theme=helltaker" alt=":https://github.com/rhyzor" />
+<img src="https://i.pinimg.com/1200x/4b/c7/f3/4bc7f3a5260935e51a3a9fca3a4ebb7f.jpg" />
 
 ### 🐧 OS:
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
