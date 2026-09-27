@@ -1,5 +1,5 @@
  
-print('hello world')
+import torch
 
 <img src="https://i.pinimg.com/1200x/4b/c7/f3/4bc7f3a5260935e51a3a9fca3a4ebb7f.jpg" />
 
